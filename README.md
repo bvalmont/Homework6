@@ -11,6 +11,7 @@ Create  a Python script to visualize the weather of 500+ cities across the world
   * Cloudiness (%) vs. Latitude
     * ![](images/latitudevscloudiness.png)
   * Wind Speed (mph) vs. Latitude
+    * ![](images/latitudevswindspeed.png)
 
 #### The final notebook does the following:
 

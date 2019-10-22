@@ -7,6 +7,7 @@ Create  a Python script to visualize the weather of 500+ cities across the world
   * Temperature (F) vs. Latitude
     * ![](images/latitudevstemperature.png)
   * Humidity (%) vs. Latitude
+    * ![](images/latitudevshumidity.png)
   * Cloudiness (%) vs. Latitude
     * ![](images/latitudevscloudiness.png)
   * Wind Speed (mph) vs. Latitude
